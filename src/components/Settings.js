@@ -64,8 +64,8 @@ function Settings() {
   ];
 
   const planOptions = [
-    { value: '1', label: 'Standard Silver' },
-    { value: '2', label: 'Direct Gold' },
+    { value: '1', label: 'Cigna Open Access Plus (OAP)' },
+    { value: '2', label: 'CignaSureFit' },
     { value: '3', label: 'Connect Bronze 8500 Indiv Med Deductible' },
   ];
 
